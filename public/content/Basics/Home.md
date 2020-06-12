@@ -19,7 +19,8 @@ If you're new to Hazel, then
 [Clone Hazel]
 [Generate Hazel Dev Environment]
 	Premake5
-[Build Hazel]
+
+[Build Hazel](https://thechernocommunity.github.io/HazelWiki/BuildingHazel)
 [Your First Hazel Project]
 
 ## How to contibute to Hazel?
