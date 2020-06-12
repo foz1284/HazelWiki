@@ -16,6 +16,12 @@ HazelWiki is the unofficial community-driven collaborative wiki for Hazel. It is
 
 If you're new to Hazel, then
 
+[Clone Hazel]
+[Generate Hazel Dev Environment]
+	Premake5
+[Build Hazel]
+[Your First Hazel Project]
+
 ## How to contibute to Hazel?
 
 If you want to contribute to Hazel directly you can start at the [contribution guidelines](https://github.com/TheCherno/Hazel/blob/master/.github/CONTRIBUTING.md) and then make issues and pull requests to the [GitHub repository](https://github.com/TheCherno/Hazel) for your contributions. We also recommend joining the [Cherno discord community](http://thecherno.com/discord) to discuss all things programming.
